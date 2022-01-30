@@ -5,7 +5,7 @@ For example:<br/>
 `python3 imcr.py 500 300` Generates an image 500px wide, 300px high and saves it to the specified path.
 
 ## Requirements:
-- Max OSx
+- Max OSX
 - Python 3 installed in system
 - PIL library
 
