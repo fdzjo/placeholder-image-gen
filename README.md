@@ -1,5 +1,5 @@
 # Placeholder Image Generator - placeholder-image-gen
-Generates a blank image with the specified dimensions, perfect for in-progress html files.
+Generates a blank image with the specified dimensions. Useful for in-progress html and css files.
 Just run the script with the width and height (in pixels) as command arguments.<br/><br/>
 For example:<br/>
 `python3 imcr.py 500 300` Generates an image 500px wide, 300px high and saves it to the specified path.
